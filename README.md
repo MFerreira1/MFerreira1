@@ -12,7 +12,7 @@ Olá, Me chamo Matheus :)
   <img align="center" alt="icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="android-17-pic" height="150" width="220px" style="border-radius:50px;" src="https://media.giphy.com/media/vLYvJbL6KJdSlcXyAX/giphy.gif">
+  <img align="right" alt="android-17-pic" height="150" width="220px" style="border-radius:50px;" src="https://i.giphy.com/media/vLYvJbL6KJdSlcXyAX/giphy.webp">
 </div>
   
  ##
